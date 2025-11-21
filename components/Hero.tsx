@@ -58,7 +58,7 @@ const Hero = () => {
             A Web Developer, Web Designer, Singer and Traveller.
           </p>
 
-          <a href="https://drive.google.com/file/d/1dwgSYTO5qCpjOFIg60wcKxIsBP_YUAde/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/1wKBH8OJZHbUd6uKLwIatYSYHm-xXyqcr/view?usp=sharing" target="_blank">
             <MagicButton
               title="Download CV"
               icon={<FaLocationArrow />}
